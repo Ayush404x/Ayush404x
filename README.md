@@ -16,7 +16,6 @@
 - 🤖 Learning Artificial Intelligence & Machine Learning
 - 💻 Solving DSA Problems in C++
 - 🌱 Currently learning MLOPS and Deep learning
-- 👁️ Building Computer Vision Projects using OpenCV
 - 📫 Reach me: **ayushmuz88@gmail.com**
 
 ---

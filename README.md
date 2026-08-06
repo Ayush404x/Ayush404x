@@ -57,31 +57,13 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=10"/>
-
-</p>
-
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/ayush-kumar-code">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
@@ -92,7 +74,3 @@
 </p>
 
 ---
-
-## 💡 Quote
-
-> "Consistency beats intensity."

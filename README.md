@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
 <h3 align="center">
-🚀 Machine Learning&AI| DSA in C++
+🚀 Machine Learning&AI | DSA in C++
 </h3>
 
 <p align="center">

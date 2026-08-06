@@ -50,7 +50,7 @@
 
 <p align="left">
 
-<a href="www.linkedin.com/in/ayush-kumar-code">
+<a href="linkedin.com/in/ayush-kumar-code">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 

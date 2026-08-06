@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
 <h3 align="center">
-🚀 AI & Machine Learning Enthusiast | C++ Developer | OpenCV | Future AI Engineer
+🚀 Machine Learning&AI| DSA in C++
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🎓 CSE Student
 - 🤖 Learning Artificial Intelligence & Machine Learning
 - 💻 Solving DSA Problems in C++
-- 🌱 Currently learning Scikit-Learn and Machine Learning
+- 🌱 Currently learning MLOPS and Deep learning
 - 👁️ Building Computer Vision Projects using OpenCV
 - 📫 Reach me: **ayushmuz88@gmail.com**
 

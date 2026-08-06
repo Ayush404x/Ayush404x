@@ -29,19 +29,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn,opencv"/>
 
 </p>
 
@@ -51,7 +39,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Ayush404x&theme=tokyonight"/>
 
 </p>
 
@@ -67,7 +55,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:ayushmuz88@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 

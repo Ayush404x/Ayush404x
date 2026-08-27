@@ -38,11 +38,9 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ayush404x&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush404x&theme=tokyonight" alt="GitHub Streak" />
 
 </p>
-
----
 
 ---
 
@@ -50,7 +48,7 @@
 
 <p align="left">
 
-<a href="[linkedin.com/in/ayush-kumar-cod](https://www.linkedin.com/in/ayush-kumar-code/?skipRedirect=true)">
+<a href="https://www.linkedin.com/in/ayush-kumar-code/?skipRedirect=true">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
